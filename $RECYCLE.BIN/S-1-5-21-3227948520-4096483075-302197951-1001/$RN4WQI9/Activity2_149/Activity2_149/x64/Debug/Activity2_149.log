@@ -1,0 +1,4 @@
+﻿  Activity2_149.cpp
+D:\Algoritma\Activity2_149\Activity2_149\Activity2_149.cpp(9,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Algoritma\Activity2_149\Activity2_149\Activity2_149.cpp(13,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Activity2_149.vcxproj -> D:\Algoritma\Activity2_149\x64\Debug\Activity2_149.exe

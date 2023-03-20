@@ -1,0 +1,4 @@
+﻿  Latihan2.cpp
+D:\Algoritma\Activity2_149\Latihan2\Latihan2.cpp(10,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Algoritma\Activity2_149\Latihan2\Latihan2.cpp(13,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Latihan2.vcxproj -> D:\Algoritma\Activity2_149\x64\Debug\Latihan2.exe
